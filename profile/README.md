@@ -1,5 +1,18 @@
-## Hi there 👋
+## Mu:necting-음악으로 연결하다 🎵
 
+## 아이디어 키워드
+
+**#음악 #연결 #공유**
+
+## 아이디어 한줄 소개 & 목표
+
+> **“ connect with music, connect your music ! “**
+> 
+
+## 서비스 이름 & 유래
+
+> music + connecting = mu-necting
+>
 <!--
 
 **Here are some ideas to get you started:**
